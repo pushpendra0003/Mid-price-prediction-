@@ -91,7 +91,6 @@ Mid-price-prediction-/
 
 - All scripts are modular, well-commented, and error-handled.
 - Project demonstrates advanced ML, feature engineering, and practical trading simulation.
-- Reproducible, with all outputs saved for review.
 - Please see the `docs/` folder for my BTP presentation and further project background.
 
 ---
