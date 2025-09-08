@@ -1,0 +1,9 @@
+pandas
+numpy
+h5py
+matplotlib
+seaborn
+scikit-learn
+tensorflow>=2.8
+scipy
+json5
