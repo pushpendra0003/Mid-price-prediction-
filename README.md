@@ -97,6 +97,6 @@ Mid-price-prediction-/
 
 ---
 
-**Author:** Pushpendra Kumar  
+**Author:** Pushpendra Jain  
 **Project Type:** BTP (Bachelor Thesis Project)  
 **Contact:** [GitHub](https://github.com/pushpendra0003)
