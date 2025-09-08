@@ -55,9 +55,8 @@ Mid-price-prediction-/
   │     ├── forecast_horizons.py
   │     ├── Final_classifier.py
   │     └── trading_simulator.py
-  ├── data/          # Add raw .h5 files here (not included)
-  ├── results/       # Model outputs, logs, plots
-  ├── docs/          # Documentation, PPT, project overview
+  ├── data/            
+  ├── docs/          
   ├── requirements.txt
   ├── .gitignore
   └── README.md
